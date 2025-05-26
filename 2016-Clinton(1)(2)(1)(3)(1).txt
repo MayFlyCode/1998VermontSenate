@@ -4113,6 +4113,10 @@ campaignTrail_temp.answer_feedback_json = [
         }
     }
 ]
+campaignTrail_temp.candidate_image_url = 'https://files.catbox.moe/zs18vd.png';
+campaignTrail_temp.running_mate_image_url = 'https://files.catbox.moe/av9u8d.png';
+campaignTrail_temp.candidate_last_name = 'Fred Tuttle';
+campaignTrail_temp.running_mate_last_name = 'For Senate!';
 
 
 
