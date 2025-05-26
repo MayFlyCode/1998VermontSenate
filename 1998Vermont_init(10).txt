@@ -187,6 +187,21 @@ document.getElementById("header").src = "https://files.catbox.moe/nfr55d.jpeg";
 
 document.body.background = "https://files.catbox.moe/gqdde5.jpeg";
 
+let style = document.createElement('style');
+style.type = 'text/css';
+style.id = 'dynamic-style';
+
+style.innerHTML = `
+  .campaign_trail_start_emphasis {
+    background-color: #0000A0;
+  }
+  a:-webkit-any-link {
+    color: #000000;
+  }
+`;
+
+document.head.appendChild(style);
+
 document.head.innerHTML += "<style>#results_container {color:#000000;} .inner_window_w_desc {background-color:#ff0000!important;}</style>";
 
 //#endcode
