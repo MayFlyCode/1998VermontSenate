@@ -4144,4 +4144,8 @@ campaignTrail_temp.jet_data = [{
     }
 }
 ]
+campaignTrail_temp.candidate_image_url = 'https://files.catbox.moe/ds7adl.jpg';
+campaignTrail_temp.running_mate_image_url = 'https://files.catbox.moe/o4vndi.jpg';
+campaignTrail_temp.candidate_last_name = 'Tuttle';
+campaignTrail_temp.running_mate_last_name = 'Why Not?';
 
